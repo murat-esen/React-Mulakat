@@ -4,7 +4,7 @@
 
 **Client:** React(Vite), 
 
-Review live demo: https://mulakat-4453.netlify.app/
+Review live demo:https://mulakat-4453.netlify.app/
 
 ![alt text](public/screenshots/ss1.png.png)
 
