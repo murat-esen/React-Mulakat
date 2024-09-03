@@ -4,9 +4,15 @@
 
 **Client:** React(Vite), 
 
+<<<<<<< Updated upstream
 Review live demo:https://mulakat-4453.netlify.app/
 
 ![alt text](public/screenshots/ss1.png.png)
+=======
+ Review live demo: https://mulakat-4453.netlify.app/
+
+![alt text](public/screenshots/ss2.png)
+>>>>>>> Stashed changes
 
 ## Getting Started
 
